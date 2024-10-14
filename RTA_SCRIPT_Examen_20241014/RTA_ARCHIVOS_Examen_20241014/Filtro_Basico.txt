@@ -1,2 +1,0 @@
-MemTotal: MemTotal:        2010892 kB
-Chassis Manufacturer: 	Manufacturer: Oracle Corporation
