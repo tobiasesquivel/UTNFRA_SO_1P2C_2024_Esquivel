@@ -1,0 +1,4 @@
+Mi IP Publica es: 186.22.238.143
+Mi usuario es: vagrant
+El Hash de mi Usuario es: 54ca3a149f3cf3ce79b7420136a42217430a5dd9
+La URL de mi repositorio es: git@github.com:tobiasesquivel/UTNFRA_SO_1P2C_2024_Esquivel.git
