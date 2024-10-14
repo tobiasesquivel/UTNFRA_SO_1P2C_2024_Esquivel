@@ -1,0 +1,1387 @@
+exit
+clear
+git --version
+ls -la
+rm -r UTNFRA_SO_1P2C_2024_Esquivel/
+ls -la
+clear
+git clone git@github.com:tobiasesquivel/UTNFRA_SO_1P2C_2024_Esquivel.git
+ls -la
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls
+clear
+echo "Prueba github ssh" > prueba.txt
+git add .
+git status
+git commit -m "commit de prueba"
+cd ..
+pwd
+ls -la
+cd .ssh/
+ls -la
+cat id_rsa.pub 
+clear
+cd ..
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls
+git add .
+git status
+git commit -m "commit prueba"
+git push
+cd .
+cd ..
+rm -r -f UTNFRA_SO_1P2C_2024_Esquivel/
+ls -la
+rm -r claves
+rm -r claves.pub 
+ls -la
+cd .ssh
+clear
+ls
+cd ..
+ssh-keygen
+pwd
+ls -la
+cd .ssh/
+ls -la
+clear
+ls -la
+cat id_rsa.pub 
+cd ..
+clear
+pwd
+git clone git@github.com:tobiasesquivel/UTNFRA_SO_1P2C_2024_Esquivel.git
+git status
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+clear
+git status 
+echo "commit prueba" > prueba.txt
+ls -la
+clear
+git add prueba.txt 
+git commit -m "commit prueba"
+git config --global user.email "tobias15esquivel@gmail.com"
+git config --global user.name tobiasesquivel
+clear
+git push
+git commit -m "commit prueba"
+git push
+rm -r prueba.txt 
+clear
+cd ..
+clear
+mkdir repogit
+cd repogit/
+git clone https://github.com/upszot/UTN-FRA_SO_onBording
+rm -r -f UTN-FRA_SO_onBording/
+clear
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+clear
+git clone git@github.com:tobiasesquivel/UTNFRA_SO_1P2C_2024_Esquivel.git
+clear
+ls -la
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh~/.bashrc && history -a
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+clear
+cd repogit/
+ls -la
+cd ..
+sudo apt install tree
+clear
+cd reop
+cd repogit/
+cd UTN-FRA_SO_Examenes/
+cd ..
+tree UTN-FRA_SO_Examenes/
+clear
+ls -la
+clear
+ls -la
+cd UTN-FRA_SO_Examenes/
+ls -la
+cd 202410
+ls -la
+script_Precodincion.sh
+vim script_Precondicion.sh 
+clear
+cd ..
+sudo  ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+sudo su
+cd UTN-FRA_SO_Examenes/
+ls -la
+cd 202410
+ls -la
+clear
+cd ..
+ls
+tree UTNFRA_SO_1P2C_2024_Esquivel/
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+clear
+ls -la
+rm -r prueba.txt 
+ls -la
+git add .
+git status
+git commit -m "Puntos agregados"
+git push
+clear
+ls -la
+vim RTA_SCRIPT_Examen_20241009/Punto_A.sh 
+ls -la
+cd RTA_SCRIPT_Examen_20241009/
+ls -la
+clear
+ls
+clear
+ls -a
+clear
+ls -l
+cat Punto_A.sh 
+vim Punto_A.sh 
+cat Punto_A.sh 
+clear
+mkdir --help
+ls -la
+cd ..
+ls -la
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+vim Punto_A.sh 
+clear
+tree
+cd ..
+tree
+cd ..
+clear
+tree
+cd UTN-FRA_SO_Examenes/
+tree
+clear
+tree
+cd ..
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+clear
+tree
+ls -l
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+vim Punto_A.sh 
+chmod +x /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Esquivel/RTA_SCRIPT_Examen_20241009/Punto_A.sh
+clear
+ls -la
+./Punto_A.sh 
+vim Punto_A.sh 
+./Punto_A.sh 
+clear
+cd ..
+pwd
+ls
+cd root/
+cd Examenes-UTN/
+ls
+tree
+clear
+cd ..
+pws
+pwd
+cd home/
+cd vagrant/
+clear
+exit
+ssh-keygen
+cd /home/vagrant/.ssh/
+ls
+ls -l
+ls -la
+cat id_rsa
+cat id_rsa.pub 
+cd ..
+ls
+cd home/
+ls
+clear
+cd
+ls
+clear
+ssh-keygen -t ed25519
+cd /home/vagrant/.ssh/
+ls
+ls -la
+ls --help
+clear
+ls --help
+clear
+ls -la
+cat id_rsa.pub 
+cd ..
+pwd
+cd home/
+clear
+sudo apt install git
+ls
+cd vagrant/
+clear
+git --version
+git clone git@github.com:tobiasesquivel/UTNFRA_SO_1P2C_2024_Esquivel.git
+ls
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls
+cat README.md 
+clear
+echo "archivo de comprobacion de funcionamiento de git" > Prueba.txt
+ls
+cat pr
+cat Prueba.txt 
+clear
+git status
+git add .
+git status
+git commit -m "Commit de comprobacion de funcionamiento"
+git push origin main
+clear
+cd ..
+ssh-keygen
+cd /home/vagrant/.ssh/
+ls
+cat id_rsa.pub
+sudo ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+clear
+ls -la
+tree UTN-FRA_SO_Examenes/
+sudo apt install tree
+tree UTN-FRA_SO_Examenes/
+apt install tree
+sudo apt install tree
+sudo apt-get install tree.
+clear
+tree UTN-FRA_SO_Examenes/
+sudo apt install tree
+clear
+sudo add-apt-repository main
+clear
+ls
+clera
+clear
+echo << eof
+hola
+este es un mensaje
+que quiero que se vaya imprimiendo 
+hasta que encuentre
+justamente la palabra
+eof
+
+echo "hola"
+echo << "eof"
+eof
+
+echo << eof
+"hola como estan"
+eof
+
+clear
+echo "hola"
+clear
+cat "hola"
+clear
+cat << eof
+hola
+eof
+
+clear
+ls -l
+clear
+bc <<<1+2
+clear
+echo << eof > dobleRedireccionamiento.txt
+hola
+esta es una prueba
+del doble redireccionamiento
+con <<
+eof
+
+ls -l
+cat dobleRedireccionamiento.txt 
+echo dobleRedireccionamiento.txt 
+clear
+man cat
+ls l-
+ls -l
+rm -r dobleRedireccionamiento.txt 
+clear
+cat << eof > a.txt
+esto
+es 
+una prueba
+de lo que haria cat
+eof
+
+cat a.txt 
+cat << eof >> a.txt 
+y esto
+es un append
+eof
+
+cat a.txt 
+clear
+rm -r a.txt 
+echo "hola mundo" | wc
+echo "hola mundo" |wc
+clear
+cat << eof > pruebaGrep.txt
+hola
+esta es una prueba
+donde yo
+aprendo sobre grep
+y cuales son sus utilidades
+para el parcial
+eof
+
+grep sobre pruebaGrep.txt 
+grep grep pruebaGrep.txt 
+cat pruebaGrep.txt | grep esta
+cat pruebaGrep.txt | grep esta | grep a
+cat pruebaGrep.txt | grep parcial > ultimaLinea.txt
+cat ultimaLinea.txt 
+clear
+ls -l
+clar
+clear
+ls -l
+rm pruebaGrep.txt 
+rm ultimaLinea.txt 
+ls -l
+clear
+cat << eof > queDecir.txt
+na no esta tan cara pero tampoco se cuanto la voy a usar
+si mas adelante sigo seguro la termine comprando
+u y q onda es complicado?
+JAKLSDFJAD
+capaz tu compañero es el momo ojo con eso jkasdj
+aaa mira vos
+cuantos años tenes?
+eof
+
+ls -l
+cat queDecir.txt 
+ls -l
+rm queDecir.txt 
+ls -l
+clear
+echo“Usuario=$(whoami)”>datos_usuario.txt
+echo "Usuario=$(whoami)">datos_usuario.txt
+cat datos_usuario.txt 
+rm datos_usuario.txt 
+clear
+cat /etc/passwd
+cat /etc/shadow
+sudo cat /etc/shadow
+cat /etc/group
+clear
+cat /etc/group
+clear
+ls -l
+cat /etc/group
+clear
+ls -l
+clear
+ls -l
+mkdir dirPruebas
+cd dirPruebas/
+clear
+mkdir -p {dir1,dir2}/subdir{1..3}
+ls -l
+tree
+clear
+cd ..
+rmdir dirPruebas/
+rm -r dirPruebas/
+mkdir dirpruebas
+cd dirpruebas/
+ls
+clear
+mkdir -p {{dir1/subdir{1..3},{dir2/subdir{1..3},otrodir}}
+tree
+cd ..
+rm -r dirpruebas/
+mkdir dirpruebas
+clear
+mkdir -p {dir1/subdir{1..3},dir2/{subdir{1..3},otrodir}}
+tree
+clear
+ls -l
+rm -r dir1
+rm -r dir2
+rm -r dirpruebas
+ls -l
+clear
+mkdir dirpractica
+cd dirpractica/
+clear
+mkdir -p {dir1/subdir{1..3},dir2/{subdir{1..3},otrodir}}
+tree
+cd ..
+rm -r dirpractica/
+clear
+mkdir dirpracticas
+mkdir ej1
+mkdir ej2
+mkdir ej3
+mkdir ej4
+cd ej1
+clear
+mkdir facturas,pedidos
+tree
+mkdir facturas , pedidos
+tree
+rmdir facturas
+rmdir facturas,pedidos/
+rmdir pedidos/
+clear
+mkdir facturas pedidos
+tree
+ls
+rm -r ,
+ls
+clear
+rmdir facturas/
+rmdir pedidos/
+clear
+tree
+clear
+mkdir facturas pedidos
+ls -l
+clear
+cd ..
+cd ej2/
+clear
+mkdir -p {clientes/{facturas,pedidos}}
+tree
+rm -r \{clientes/
+tree
+clear
+mkdir clientes/{facturas,pedidos}
+mkdir -p clientes/{facturas,pedidos}
+clear
+tree
+mkdir -p clientes/{facturas,pedidos}
+ls -l
+tree
+cd ..
+cd ej3
+clear
+mkdir -p {clientes,proveedores}/{facturas,pedidos}
+tree
+cd ..
+cd ej4
+mkdir -p contactos/{clientes,proveedores}/{facturas,pedidos}
+tree
+cd ..
+clear
+mkdir ej6
+mkdir -p ej3/{mama/{hijo{1..3},papa/{hijo{1..3},ahijado}}
+tree
+clear
+tree | grep ej3
+ls -l
+cd ej3
+tree
+cd ..
+rm -r ej3
+clear
+cd dirpracticas/
+ls
+cd ..
+ls -l
+rm -r ej1
+rm -r ej2
+rm -r ej4
+cd ej6
+tree
+clear
+cd ..
+ls -l
+clear
+cd ej6/
+mkdir -p ej3/{mama/hijo{1..3},papa/{hijo{1..3},ahijado}
+tree
+mkdir -p ej3/{mama/hijo{1..3},papa/{hijo{1..3},ahijado}rm -r ej3/
+rm -r ej3
+tree
+mkdir -p ej3/{mama/hijo{1..3},papa/{hijo{1..3},ahijado}}
+tree
+clear
+man awk
+quit
+exit
+clar
+clear
+cat /proc/cpuinfo 
+cat /proc/cpuinfo | grep proce
+cat /proc/cpuinfo | grep proce -n
+clear
+cat /proc/cpuinfo | grep proce 
+cat /proc/cpuinfo | grep -i -n proce
+clear
+cat /proc/cpuinfo | grep -i proce
+clear
+cat /proc/cpuinfo | grep proce | awk '{print}'
+cat /proc/cpuinfo | grep proce | awk '{print$2}'
+cat /proc/cpuinfo | grep proce | awk '{print$3}'
+cat /proc/cpuinfo | grep proce | awk '{print nr}'
+cat /proc/cpuinfo | grep proce | awk '{print nf}'
+cat /proc/cpuinfo | grep proce | awk '{print NF}'
+clear
+cat /proc/cpuinfo | grep proce | awk '{print $2,":"}'
+clear
+cat /proc/cpuinfo | grep proce | awk -F ':' '{print$2}'
+man awk
+cat /proc/cpuinfo | grep proce | awk fs ':' '{print$2}'
+cat /proc/cpuinfo | grep proce | awk -fs ':' '{print$2}'
+cat /proc/cpuinfo | grep proce | awk -F ':' '{print$2}'
+clear
+cat /proc/cpuinfo | grep proce | awk -F ':' '{print$2}'
+cat /proc/cpuinfo | grep proce | awk -F ':' '{print"numero "$2}'
+cat /proc/cpuinfo | grep proce | awk -F ':' '{print"numero"$2}'
+nproc
+clear
+nproc
+nproc | awk '{print"El numero de nucleos que tiene el procesador es de"$1
+clear
+exit
+quit
+clear
+nproc | awk '{print"El numero de nucleos que tiene el procesador es de"$1}'
+nproc | awk '{print"El numero de nucleos que tiene el procesador es de "$1}'
+nproc | echo "El numero de procesadores es de $1"
+nproc | echo "El numero de procesadores es de $2"
+clear
+ls -l
+rm -r ej6/
+rm -r -f dirpracticas/
+clear
+ls -l
+clear
+cat << eof > archivo.txt
+este es un archivo
+que es de practica
+para el parcial
+usando el comando de
+awk en linux
+eof
+
+cat archivo.txt 
+clear
+awk '{print'} archivo.txt 
+awk '{print}' archivo.txt 
+clear
+awk '{print}' archivo.txt 
+clear
+color a
+clear
+awk '{print$1," ",$4}' archivo.txt 
+cat archivo.txt 
+awk '{print$1,$4}' archivo.txt 
+clear
+awk '{print$1,$4}' archivo.txt 
+awk '{print$1,"q",$4}' archivo.txt 
+clear
+ls -l
+rm archivo.txt 
+clear
+ls -l
+cd repogit/
+ls -l
+git status
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+git status
+ls -l
+clera
+clear
+git status
+ls -l
+clear
+git add .
+git status
+git commit -m "Script punto A resuelto"
+git status
+gitt push
+git push
+clear
+ls -l
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+vim Punto_A.sh 
+cd ..
+clear
+ls -l
+clear
+ls -l
+cd RTA_ARCHIVOS_Examen_20241009/
+ls -l
+ls
+clear
+cd ..
+ls -l
+cd ..
+ls -l
+clear
+ls -l /etc
+clear
+tail /etc/passw
+tail /etc/passwd
+id
+clear 
+sudo cat /etc/shadow
+clear
+sudo cat /etc/shadow | grep vagrant
+clear
+ls -l
+mkdir dir{1..3}
+ls -l
+grep dir
+clear
+ls -l
+cd repogit/
+ls -l
+clear
+ls -l
+find dir
+find "dir.."
+find "dir"
+clear
+quit
+exit
+clear
+mkdir factura{1..5}
+ls
+ls -l
+clear
+find -name "factura"
+find -name "factura" | echo
+man find
+find "factura" | echo
+find -name "factura" | echo
+ls -l
+find -name "factura." | echo
+find -name "factura.." | echo
+find -name "factura1" | echo
+find -name "factura1"
+find -name "factura2"
+find -name "factura{1..5}"
+grep factura
+clear
+ls -l
+find . "factura"
+clear
+find . -name "factura"
+find . -iname "factura"
+find . -d "factura"
+find -d "factura"
+find . -d "factura"
+find . -depth "factura"
+clear
+find -name "factura*"
+find -name "factura*" | rm -r
+find -name "factura*" | xargs rm -r
+ls -l
+clear
+ls -l
+touch archivo.txt
+ls -l
+clear
+sudo chown vagrant archivo.txt 
+ls -l
+rm archivo.txt 
+clear
+ls -l
+touch "a.txt"
+ls -l
+rm a.txt 
+touch "a.txt"
+clear
+ls -la
+clear
+ls -l
+sudo chmod u-r a.txt 
+ls -l
+sudo chmod u-w a.txt 
+ls -l
+sudo chmod g-r a.txt 
+ls -l
+sudo chmod g-w a.txt 
+ls -l
+clear
+sudo chmod o-r a.txt 
+ls -l
+clear
+ls -l
+sudo chmod u+r
+sudo chmod u+r a.txt 
+ls -l
+sudo chmod u+w a.txt 
+sudo chmod u+x a.txt 
+ls -l
+sudo chmod g+r a.txt 
+sudo chmod g+w a.txt 
+sudo chmod g+x a.txt 
+ls -l
+clear
+ls -l
+rm a.txt 
+ls -l
+clear
+ls -l
+touch "a.txt"
+ls -l
+sudo chmod 000 a.txt 
+ls -l
+sudo chmod 700 a.txt 
+ls -l
+sudo chmod 000 a.txt 
+clear
+ls -l
+sudo chmod 707
+sudo chmod 707 a.txt 
+ls -l
+clear
+ls -l
+rm a.txt 
+ls -l
+rm UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+clear
+ls -l
+cat Punto_A.sh 
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+CD RTA_SCRIPT_Examen_20241009/
+ls -l
+Cd RTA_SCRIPT_Examen_20241009/
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+clear
+ls -l
+cat Punto_A.sh 
+clear
+ls -l
+vim Punto_D.sh 
+man chmod
+sudo chmod 777 Punto_B.sh 
+ls -l
+Punto_B.sh
+./Punto_B.sh 
+ls -l /home/vagrant/
+vim Punto_B.sh 
+sudo chmod 777 Punto_D.sh 
+ls -l
+./Punto_D.sh 
+vim Punto_D.sh 
+./Punto_D.sh 
+ls -l /home/vagrant/
+vim Punto_D.sh 
+mkdir --help
+vim Punto_D.sh 
+./Punto_D.sh 
+ls -l /home/vagrant/q
+ls -l /home/vagrant/
+cd /home/vagrant/
+tree Estructura_Asimetrica/--noreport | pr-T-s' '-w 80--column 4
+cd Estructura_Asimetrica/
+~
+tree Estructura_Asimetrica/--noreport | pr-T-s' '-w 80--column 4
+ls -l
+tree
+cd ..
+rm -r Estructura_Asimetrica/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+vim Punto_D.sh 
+./Punto_D.sh 
+cd /home/vagrant/
+ls -l
+tree Estructura_Asimetrica/
+clear
+cd ..
+ls -l
+cd vagrant/
+ls -l
+cd repogit/
+ls -l
+tree dir1
+rm dir1/
+rm -r dir1/
+rm -r dir2/
+rm -r dir3/
+ls -l
+clear
+ls -l
+git add .
+cd ..
+ls -l
+git add .
+cd repogit/
+git add .
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+git add .
+git status
+git commit -m "Punto D resuelto"
+git push
+clear
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+clear
+ls -l
+rTA_S
+RTA_SCRIPT_Examen_20241009/
+ls -l
+cd RTA_SCRIPT_Examen_20241009/
+ls -ls
+su -
+passwd -e vagrant
+sudo passw -e vagrant
+sudo passwd -e vagrant
+sudo chmod 777 Punto_C.sh 
+ls -l
+clear
+vim Punto_C.sh 
+su -
+sudo passw -e vagrant
+sudo passwd -e vagrant
+whoami
+clear
+ls -l
+vim Punto_C.sh 
+ls /Examenes-UTN/alumno_1/
+cd ..
+ls 
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+cd /Examenes-UTN/
+ls -l
+cd profesores/
+ls -l
+clear
+cd ..
+cd /home/vagrant/
+clear
+ls -
+ls -l
+clear
+ls -l
+cd repogit/
+ls -l
+cd ..
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+cd ..
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+cd Putno_D
+vim Punto_D.sh 
+vim Punto_C.sh 
+ls -l
+vim Punto_C.sh 
+cat Punto_C.sh 
+clear
+ls -l
+cd ..
+git add .
+git statuts
+git status
+git commit -m "Punto C finalizado pero no probado"
+git push
+clear
+ls -l
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+./Punto_C.sh 
+vim Punto_C.sh 
+./Punto_C.sh 
+ls -l
+cat validar.txt 
+vim Punto_C.sh 
+./Punto_C.sh 
+ls -l
+cat validar.txt 
+clear
+cat /etc/passwd
+cat /etc/passwd | grep "p1c2_2024_A1
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+clear
+cat /etc/passwd | grep p1c2_2024_A1
+cat /etc/groups
+ls -l /etc/
+ls -l
+clear
+cd /etc/group
+cd /etc/groups
+cd -i p1c2_2024_A1 /etc/group
+grep -i p1c2_2024_A1 /etc/group
+groups p1c2_2024_A1
+groups p1c2_2024_A2
+groups p1c2_2024_A3
+groups p1c2_2024_P1
+clear
+ls -l
+clear
+git add .
+git status
+ls -l
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+cat Punto_A.sh 
+cat Punto_C.sh 
+cd ..
+whoami
+clear
+whoami
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+rm -r UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+rm -r -f UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+git pull https://github.com/tobiasesquivel/UTNFRA_SO_1P2C_2024_Esquivel.git
+git clone https://github.com/tobiasesquivel/UTNFRA_SO_1P2C_2024_Esquivel.git
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+cat Punto_C.sh 
+ls -l
+vim Punto_C.sh 
+ls -l
+./Punto_C.sh 
+ls -l
+groups p1c2_2024_A2
+groups p1c2_2024_A3
+groups p1c2_2024_P1
+clear
+ls l-
+ls -l
+groups p1c2_2024_P1
+cat validar.txt 
+ls -ld /Examenes-UTN/alumno_1
+ls -ld /Examenes-UTN/alumno_2
+ls -ld /Examenes-UTN/alumno_3
+clear
+cat validar.txt 
+ls -l
+cat Punto_C.sh 
+clear
+ls -l
+sudo chmod 777 Punto_E.sh 
+ls -l
+vim Punto_E.sh 
+cd ..
+ls -l
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+cd ..
+git add .
+git status
+git commit -m "Punto D terminado"
+git pus
+git push
+clear
+git push
+cd ..
+ssh-keyven
+ssh-kegven
+ssh-keygen
+cat /home/vagrant/.ssh/id_rsa.pub 
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+git add .
+git status
+git push
+git remote -v
+ls -l
+git status
+cd RTA_SCRIPT_Examen_20241009/
+ld -l
+ls -l
+cat Punto_E.sh 
+cat Punto_C.sh 
+cd ..
+rm -r -f UTNFRA_SO_1P2C_2024_Esquivel/
+git clone git@github.com:tobiasesquivel/UTNFRA_SO_1P2C_2024_Esquivel.git
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+vim Punto_C.sh 
+cat Punto_D.sh 
+sudo chmod 777 Punto_E.sh 
+ls l
+ls -l
+clear
+ls -l
+vim Punto_E.sh 
+cd ..
+git add .
+git status
+git commit -m "Punto E sin terminar ni testear"
+git push
+cd ..
+ls -l
+rm -r Estructura_Asimetrica/
+rm -r -f UTNFRA_SO_1P2C_2024_Esquivel/
+rm -r -f repogit/
+ls -l
+clear
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.gi
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+clear
+ls -l
+git clone git@github.com:tobiasesquivel/UTNFRA_SO_1P2C_2024_Esquivel.git
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh~/.bashrc && history-a
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history-a
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+~/.bashrc && history -a
+sudo ~/.bashrc && history -a
+~/.bashrc && history -a
+sudo su
+clear
+sudo source ~/.bashrc && history -a
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+/UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+tree UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+rm RTA_SCRIPT_Examen_20241014/
+rmdir RTA_SCRIPT_Examen_20241014/
+rm -r RTA_SCRIPT_Examen_20241014/
+ls -l
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+clear
+ls -l
+cd ..
+ls -l
+rm -r -f UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+rm -l
+ls -l
+rm -r -f UTN-FRA_SO_Examenes/
+clear
+ls -l
+mkdir repogit
+ls -l
+cd repogit/
+clear
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+git clone git@github.com:tobiasesquivel/UTNFRA_SO_1P2C_2024_Esquivel.git
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+source  ~/.bashrc  && history -a
+clear
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+rm -r -f RTA_SCRIPT_Examen_20241009
+cd RTA_SCRIPT_Examen_20241014/
+ls -l
+clear
+ls -l
+sudo chmod 777 Punto_A.sh 
+sudo chmod 777 Punto_B.sh 
+sudo chmod 777 Punto_C.sh 
+sudo chmod 777 Punto_D.sh 
+sudo chmod 777 Punto_E.sh 
+sudo chmod 777 Punto_F.sh 
+clear
+ls -l
+vim Punto_A.sh 
+vim Punto_B.sh 
+vim Punto_C.sh 
+vim Punto_D.sh 
+vim Punto_E.sh 
+clear
+cd ..
+git add .
+git status
+git commit -m "Hasta el punto E sin terminar ni testear, habiendo reiniciado las carpetas"
+git push
+clear
+ls -l
+cd RTA_SCRIPT_Examen_20241014/
+vim Punto_D.sh 
+vim Punto_E.sh 
+ls -l
+./Punto_E.sh 
+vim Punto_E.sh 
+./Punto_E.sh 
+cd ..
+cd RTA_ARCHIVOS_Examen_20241014/
+ls -l
+vim Punto_E.sh 
+ls -l
+cd ..
+ls -l
+RTA_SCRIPT_Examen_20241014/
+ls -l
+RTA_SCRIPT_Examen_20241014/
+ls -l
+cd RTA_SCRIPT_Examen_20241014/
+ls -l
+vim Punto_E.sh 
+./Punto_E.sh 
+vim Punto_E.sh 
+./Punto_E.sh 
+clear
+./Punto_E.sh 
+cd ..
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+cd RTA_SCRIPT_Examen_20241014/
+ls -l
+vim Punto_E.sh 
+./Punto_E.sh 
+vim Punto_E.sh 
+./Punto_E.sh 
+clear
+ls -l
+grep MemTotal /proc/meminfo
+MemTotal:       2019080 kB
+sudo dmidecode -t chassis | grep Manufacturer
+vim Punto_E.sh 
+./Punto_E.sh 
+ls -l
+tree RTA_ARCHIVOS_Examen_20241014/
+cd .
+cd ..
+ls -l
+cd RTA_SCRIPT_Examen_20241014/
+vim Punto_E.sh 
+./Punto_E.sh 
+cd ..
+cd RTA_ARCHIVOS_Examen_20241014/
+ls -l
+cat Filtro_Basico.txt 
+cd ..
+ls -l
+cd RTA_SCRIPT_Examen_20241014/
+ls -l
+vim Punto_F
+ls -l
+vim Punto_F.sh 
+ls -l
+./Punto_F.sh 
+vim Punto_F.sh 
+./Punto_F.sh 
+vim Punto_F.sh 
+./Punto_F.sh 
+vim Punto_F.sh 
+./Punto_F.sh 
+vim Punto_F.sh 
+./Punto_F.sh 
+cd ..
+ls -l
+cd RTA_ARCHIVOS_Examen_20241014/
+ls -l
+cat Filtro_Avanzado.txt 
+cd ..
+ls -l
+cd RTA_SCRIPT_Examen_20241014/
+ls -l}
+ls -l
+vim Punto_A.sh 
+vim Punto_C.sh 
+vim Punto_D.sh 
+vim Punto_E.sh 
+vim Punto_F.sh 
+cd ..
+git status
+git add .
+git status
+git commit -m "Punto F terminado"
+git push
+ls -l
+clear
+ls -l
+cd repogit/
+ls -l
+cd UTNF
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+RTA_SCRIPT_Examen_20241014/
+ls -l
+RTA_SCRIPT_Examen_20241014/
+ls -l
+cd RTA_SCRIPT_Examen_20241014/
+ls -l
+clear
+ls -l
+cd RTA_ARCHIVOS_Examen_20241014/
+ls -l
+cd ..
+ls -l
+RTA_ARCHIVOS_Examen_20241014/
+cd RTA_ARCHIVOS_Examen_20241014/
+ls -l
+cd ..
+ls -l
+clear
+ls -l
+cd RTA_SCRIPT_Examen_20241014/
+ls -l
+rm -r -f RTA_ARCHIVOS_Examen_20241014/
+clear
+ls -l
+clear
+lsblk
+quit
+exit
+clear
+ls -l
+cd repogit/
+ls -l
+tree
+clear
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+cd RTA_SCRIPT_Examen_20241014/
+ls -l
+cd ..
+cd RTA_As
+cd RTA_ARCHIVOS_Examen_20241014/
+ls -l
+clear
+cd ..
+sudo fdisk -l
+clear
+fdisk -l
+sudo fdisk -l
+clear
+ls -l
+sudo fdisk -l
+clear
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+cd UTNF
+ls -l
+cd RTA_SCRIPT_Examen_20241014/
+ls -l
+vim Punto_B.sh 
+sudo fdisk -l
+vim Punto_B.sh 
+clear
+cd ..
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+clear
+git status
+git add .
+git commit -m "Punto B terminado"
+git status
+git push
+clear
+history -a
+cp \$HOME/.bash_history > historial.txt
+cp \$HOME/.bash_history  historial.txt
+cp \$HOME/.bash_history historial.txt
+cp $HOME/.bash_history historial.txt
+ls -l
+cd RTA_SCRIPT_Examen_20241014/
+ls -l
+vim Punto_A.sh 
+vim Punto_B.sh 
+vim Punto_C.sh 
+vim Punto_D.sh 
+vim Punto_E.sh 
+vim Punto_F.sh 
+vim Punto_e.sh 
+vim Punto_E.sh 
+vim Punto_D.sh 
+sl -l
+ls -l
+clear
+ls -l
+vim Punto_F.sh 
+vim Punto_B.sh 
+cd ..
+git status
+git add .
+git commit -m "historial agregado"
+git push
+git commit -m "historial agregado"
+git push
+cd ..
+ls -l
+rm -r -f UTNFRA_SO_1P2C_2024_Esquivel/
+ls -l
+git clone git@github.com:tobiasesquivel/UTNFRA_SO_1P2C_2024_Esquivel.git
+ls -l
+cd UTNFRA_SO_1P2C_2024_Esquivel/
+cd ..
+cat history
+cat history.txt
+clear
+cp $HOME./bash_history historial.txt
+cp $HOME./.bash_history historial.txt
+cp $HOME/.bash_history historial.txt
+ls -l
+rm historial.txt 
+history -a
+cp $HOME/.bash_history historial.txt
+cat historial.txt 
+clear
+ls
+cd UTNFRA_SO_1P2C_2024_Esquivel/
